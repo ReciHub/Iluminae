@@ -24,21 +24,18 @@
 <br><br>
 ![](https://github.com/ReciHub/Iluminae/blob/master/docs/isacprofile.jpg?raw=true)<br>
 _**Designer de Experiência**_
-
 <br>
 
-**Otacilio Maia** ([GitHub :octocat:](https://github.com/OtacilioN))
+**Otacilio Maia** ([GitHub](https://github.com/OtacilioN))
 <br><br>
 ![](https://github.com/OtacilioN.png?size=230)<br>
 _**Hardware Hacker**_
-
 <br>
 
-**Thiago Augusto** ([GitHub :octocat:](https://github.com/ThiagoAugustoSM))
+**Thiago Augusto** ([GitHub](https://github.com/ThiagoAugustoSM))
 <br><br>
 ![](https://github.com/ThiagoAugustoSM.png?size=230)<br>
 _**Software Hacker**_
-
 <br>
 
 [**Adpt Design**](https://www.facebook.com/adpt.design/)
